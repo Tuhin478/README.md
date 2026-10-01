@@ -1,20 +1,34 @@
-# README.md
 
-<!-- Animated GitHub Profile README for Tuhin Sarkar -->
+<!--
+  GitHub Profile README
+  Name: Tuhin Sarkar
+  GitHub: Tuhin478
+  Theme: Cyber Blue
+-->
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:075985,100:00D9FF&height=200&section=header&text=Tuhin%20Sarkar&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Animated Cyber Blue header"/>
 
 # 👋 Hey, I'm Tuhin Sarkar!
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;AI+Enthusiast;Building+Projects+and+Learning;Turning+Ideas+Into+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Python+Backend+Developer;AI+Developer+%7C+AI+Enthusiast;CSE+%28AI+%26+ML%29+Student;Building+Projects+and+Learning+Every+Day" alt="Animated typing introduction"/>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=160&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Animated header"/>
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Tuhin874-181717?style=for-the-badge&logo=github)](https://github.com/Tuhin874)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tuhin%20Sarkar-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuhin-sarkar-b4323a289/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuhinsarkar343@gmail.com)
+<a href="https://github.com/Tuhin478">
+<img src="https://img.shields.io/badge/GitHub-Tuhin478-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/tuhin-sarkar-b4323a289/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="mailto:tuhinsarkar343@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-00B8D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+📍 West Bengal, India
 
 </div>
 
@@ -22,42 +36,37 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class TuhinSarkar:
-    def __init__(self):
-        self.name = "Tuhin Sarkar"
-        self.role = "Python Backend Developer"
-        self.interests = ["Artificial Intelligence", "Backend Development"]
-        self.languages = ["Python", "SQL", "JavaScript"]
-        self.tools = ["Django", "MySQL", "Git", "GitHub"]
-        self.current_focus = "Building and learning"
+Hello! I'm **Tuhin Sarkar**, a technology enthusiast pursuing Computer Science and Engineering with a specialization in Artificial Intelligence and Machine Learning.
 
-    def say_hello(self):
-        print("Thanks for visiting my GitHub profile!")
+I have a background in Electrical Engineering and an interest in building software that combines programming, automation, and artificial intelligence. I enjoy learning by building projects and continuously improving my development skills.
 
-me = TuhinSarkar()
-me.say_hello()
-```
-
-- 🔭 Exploring Python backend development and AI.
-- 🌱 Improving my skills through hands-on projects.
-- 🤖 Interested in AI-powered applications and automation.
-- 💡 I enjoy solving problems and learning new technologies.
-- 🎯 My goal is to build useful, real-world software.
+- 🎓 Pursuing CSE (AI & ML) at GKCIET.
+- 🐍 Interested in Python backend development.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🌐 Building web applications using frontend and backend technologies.
+- 🧠 Currently learning Data Structures and Algorithms (DSA) and APIs.
+- 🚀 Goal: Develop useful, reliable, and intelligent software applications.
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ My Tech Stack
 
 <div align="center">
 
-### Languages
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js" alt="Programming languages"/>
 
-### Frameworks & Tools
+### 🛠️ Frameworks, Databases & Tools
 
-<img src="https://skillicons.dev/icons?i=django,git,github,vscode,opencv" alt="Frameworks and tools"/>
+<img src="https://skillicons.dev/icons?i=django,mysql,git,github,vscode" alt="Frameworks, databases and development tools"/>
+
+### 🤖 Areas of Interest
+
+<img src="https://img.shields.io/badge/Backend_Development-0D1117?style=for-the-badge&logo=serverfault&logoColor=00D9FF" alt="Backend development"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=for-the-badge&logo=probot&logoColor=00D9FF" alt="Artificial intelligence"/>
+<img src="https://img.shields.io/badge/Machine_Learning-0D1117?style=for-the-badge&logo=googlecolab&logoColor=00D9FF" alt="Machine learning"/>
+<img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=githubactions&logoColor=00D9FF" alt="Automation"/>
 
 </div>
 
@@ -65,89 +74,75 @@ me.say_hello()
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🤖 AI Desktop Assistant
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:075985,100:00D9FF&height=3&section=header" width="100%" alt="Blue divider"/>
 
-**Anna 2.0 / Jarvis**
+</div>
 
-A Python desktop assistant integrating voice commands and AI-powered interactions.
+### 🤖 1. Personal AI Desktop Assistant
 
-- 🎙️ Voice commands and wake-word detection
-- 🧠 AI conversational features
-- 🖥️ Desktop application control
-- ✅ To-do list functionality
-- 🔐 Face authentication with OpenCV
+A Python-based desktop assistant designed to interact with users through voice commands and help automate everyday computer tasks.
 
-**Stack:** Python, Eel, HTML, CSS, JavaScript, OpenCV
+**Key features**
+- 🗣️ Communicates with users.
+- 📞 Supports voice-command-based calling.
+- 💬 Sends messages through voice commands.
+- 🖥️ Executes supported operating system commands using voice.
+- 🔌 Integrates frontend and Python functionality.
+- 🗄️ Uses MySQL and APIs for supported features.
 
-[🔗 Explore repositories](https://github.com/Tuhin874?tab=repositories)
+**Technologies:** Python, HTML, CSS, JavaScript, MySQL, APIs.
 
-</td>
-<td width="50%" valign="top">
-
-### 🚗 Obstacle Avoiding RC Car
-
-An Arduino-based project for obstacle detection and navigation.
-
-- 📡 Ultrasonic distance sensing
-- 🔄 Servo-assisted scanning
-- 🚘 Automatic obstacle avoidance
-- 📱 Bluetooth and voice control
-
-**Stack:** Arduino, Embedded C/C++, Ultrasonic Sensor, Servo
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔥 Gas Detection System
-
-An electronics project focused on gas detection and connected safety features.
-
-- 🌫️ Gas sensing
-- 🪟 Servo-controlled window opening
-- 📲 Bluetooth communication
-- 📩 GSM-based SMS alerts
-
-**Stack:** Arduino, Gas Sensor, Servo, Bluetooth, GSM
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Web Development Projects
-
-Frontend projects built to practise web development.
-
-- 🎬 Netflix-inspired interface
-- ❌⭕ Tic-Tac-Toe game
-- 🌦️ Weather website
-- 🗼 Tower of Hanoi puzzle
-
-**Stack:** HTML, CSS, JavaScript
-
-[🔗 Explore repositories](https://github.com/Tuhin874?tab=repositories)
-
-</td>
-</tr>
-</table>
+🔗 **Repository:** Add your project URL here.
 
 ---
 
-## 📊 GitHub Analytics
+### ✅ 2. Todo List Web Application
+
+A web application for organizing tasks and practising full-stack web development.
+
+**Key features**
+- 📝 Create and manage tasks.
+- 🌐 Interactive web interface.
+- ⚙️ Django-based backend.
+- 🗄️ Database integration as configured in the project.
+
+**Technologies:** HTML, CSS, JavaScript, Python, Django.
+
+🔗 **Repository:** Add your project URL here.
+
+---
+
+### 🎮 3. Tic-Tac-Toe Game
+
+A browser-based Tic-Tac-Toe game developed to practise frontend development and JavaScript logic.
+
+**Key features**
+- ❌⭕ Interactive game board.
+- 🧠 JavaScript-based game logic.
+- 🎨 HTML and CSS interface.
+- 🌐 Runs in a web browser.
+
+**Technologies:** HTML, CSS, JavaScript.
+
+🔗 **Repository:** Add your project URL here.
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Tuhin874&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tuhin478&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuhin874&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuhin478&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Most used programming languages"/>
 
-<br/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=Tuhin874&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tuhin478&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
@@ -155,11 +150,15 @@ Frontend projects built to practise web development.
 
 ## 🎓 Education
 
-**Diploma in Electrical Engineering**  
-Falakata Polytechnic Institute of Technology  
-📅 2021 – 2023
+**Bachelor's Degree — Computer Science and Engineering (AI & ML)**  
+GKCIET  
+📅 2026 – Present
 
-My background in electrical engineering has given me opportunities to explore electronics, embedded systems, and hardware-software integration.
+**Diploma — Electrical Engineering**  
+Falakata Polytechnic Institute  
+📅 2020 – 2023
+
+My educational background connects electrical engineering concepts with my current interests in software development, intelligent applications, and machine learning.
 
 ---
 
@@ -167,35 +166,51 @@ My background in electrical engineering has given me opportunities to explore el
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-Backend-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-Exploring-8A2BE2?style=for-the-badge)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-Learning-00D9FF?style=for-the-badge&logo=thealgorithms&logoColor=white)
+
+![APIs](https://img.shields.io/badge/APIs-Exploring-075985?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![AI](https://img.shields.io/badge/Artificial_Intelligence-Learning-7C3AED?style=for-the-badge&logo=probot&logoColor=white)
+
+![ML](https://img.shields.io/badge/Machine_Learning-Exploring-0D9488?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 </div>
 
+I'm continuously strengthening my programming fundamentals, learning how backend systems work, and exploring AI and machine learning concepts through study and practical projects.
+
 ---
 
-## 🤝 Let's Connect
+## 🎯 My Goals
+
+- Build practical Python backend applications.
+- Develop a strong foundation in Data Structures and Algorithms.
+- Learn to integrate APIs into real-world projects.
+- Explore AI and machine learning through hands-on development.
+- Improve my software engineering and problem-solving skills.
+- Collaborate with other developers and learn from the community.
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
-I'm interested in technology, programming, and building projects that help me grow as a developer.
-
-<a href="https://github.com/Tuhin874">
-  <img src="https://img.shields.io/badge/Follow%20me%20on-GitHub-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
+<a href="https://github.com/Tuhin478">
+<img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tuhin-sarkar-b4323a289/">
-  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/>
 </a>
 
 <a href="mailto:tuhinsarkar343@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20an-Email-EA4335?style=for-the-badge&logo=gmail" alt="Send an email"/>
+<img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail" alt="Email"/>
 </a>
 
-### 💻 Learn. Build. Improve. Repeat. 🔥
+### 💙 Learn. Build. Innovate. Repeat.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="Animated footer"/>
+*Building my skills one project at a time.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:075985,100:07111F&height=120&section=footer" width="100%" alt="Animated Cyber Blue footer"/>
 
 </div>
